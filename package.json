@@ -1,9 +1,18 @@
 {
   "name": "mbi-farming",
   "version": "1.0.0",
+  "description": "Simple farming website for CI/CD assignment",
+  "main": "app.js",
   "scripts": {
     "lint": "echo Lint Passed",
     "test": "echo Test Passed",
     "build": "echo Build Passed"
-  }
+  },
+  "keywords": [
+    "farming",
+    "website",
+    "ci-cd"
+  ],
+  "author": "dev-mbi",
+  "license": "ISC"
 }
